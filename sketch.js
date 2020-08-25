@@ -22,9 +22,7 @@ function preload() {
 
 function setup() { 
   
-  if (Tone.context.state != 'running') {
-    Tone.start();
-  }
+ 
   
   createCanvas(400, 400);
   
