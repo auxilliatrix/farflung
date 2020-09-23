@@ -8,7 +8,7 @@
 
       .cls-2 {
         fill: #572964;
-        opacity: 0.85;
+        opacity: 1;
       }
 
       .cls-3 {
